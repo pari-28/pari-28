@@ -152,7 +152,7 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pari-28/pari-28/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/pari-28/pari-28/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation" />
 
 </div>
 
