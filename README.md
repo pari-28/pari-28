@@ -13,21 +13,12 @@ src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-
 
 <br><br>
 
-<img width="450" alt="Girls Who Code"
-src="YOUR_GIRLS_WHO_CODE_GIF_URL_HERE" />
-
 </div>
 
 ---
 
 ## 🌌 Current Quest
 
-<div align="center">
-
-<img width="350"
-src="YOUR_CURIOUS_TECH_GEEK_GIF_URL_HERE"/>
-
-</div>
 
 ```text
 🌸 Open Source Development
@@ -37,18 +28,33 @@ src="YOUR_CURIOUS_TECH_GEEK_GIF_URL_HERE"/>
 ☁️ Cloud Technologies
 ```
 
+<div align="center">
+
+<img width="350"
+src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
+
+</div>
+
+
 ---
 
 ## ✨ About
 
 <img align="right" width="250" alt="Perfect Loop"
-src="YOUR_PERFECT_LOOP_GIF_URL_HERE"/>
+src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE0MTY4ODQsIm5iZiI6MTc4MTQxNjU4NCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE0VDA1NTYyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2ZjAzNmI4N2NkZTEwOTU5MmEzYThjOWIyZTE1NjJmMzJiZWVhYTM5ZTk3NDBiZGM2ZDA4Mzg0MzQ4N2VlYzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.CUMb5wvP-87x0xsdFIT_WnVkxIf0RvH87_rANzDLuXo"/>
 
 I'm a Computer Science student passionate about building software, contributing to open source, and exploring intelligent systems.
 
 My journey revolves around writing clean code, collaborating through open source, participating in hackathons, and continuously improving my problem-solving abilities.
 
 <br clear="right"/>
+
+<div align="center">
+
+<img width="450" alt="Girls Who Code"
+src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE0MTY4ODQsIm5iZiI6MTc4MTQxNjU4NCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE0VDA1NTYyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3NDIwYWNkY2I3YzFiNWY3OTQzN2E2NDEzZjk2Y2ViNGQ4Yzk5NTQxZDZiMjg0ZWQ1ODE5YjA2NjQwYWEzNWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.hBdbeU8bRAivzGPXIxvWE8o6WrLRk-U-PRXIbWEHzpw" />
+
+</div>
 
 ---
 
@@ -137,6 +143,16 @@ src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-
 
 <img width="750" alt="Mario"
 src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/pari-28/pari-28/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
