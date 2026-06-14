@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img width="500" alt="Awesome Work Environment"
+<img width="850" alt="Awesome Work Environment"
 src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
 <br><br>
@@ -49,12 +49,7 @@ My journey revolves around writing clean code, collaborating through open source
 
 <br clear="right"/>
 
-<div align="center">
 
-<img width="450" alt="Girls Who Code"
-src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE0MTY4ODQsIm5iZiI6MTc4MTQxNjU4NCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE0VDA1NTYyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3NDIwYWNkY2I3YzFiNWY3OTQzN2E2NDEzZjk2Y2ViNGQ4Yzk5NTQxZDZiMjg0ZWQ1ODE5YjA2NjQwYWEzNWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.hBdbeU8bRAivzGPXIxvWE8o6WrLRk-U-PRXIbWEHzpw" />
-
-</div>
 
 ---
 
@@ -157,6 +152,13 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 </div>
 
 ---
+
+<div align="center">
+
+<img width="450" alt="Girls Who Code"
+src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE0MTY4ODQsIm5iZiI6MTc4MTQxNjU4NCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE0VDA1NTYyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3NDIwYWNkY2I3YzFiNWY3OTQzN2E2NDEzZjk2Y2ViNGQ4Yzk5NTQxZDZiMjg0ZWQ1ODE5YjA2NjQwYWEzNWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.hBdbeU8bRAivzGPXIxvWE8o6WrLRk-U-PRXIbWEHzpw" />
+
+</div>
 
 ## 🌐 Connect With Me
 
