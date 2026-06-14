@@ -1,3 +1,4 @@
+````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Pari%20Sangamnerkar&fontSize=50&fontAlignY=40" />
@@ -8,13 +9,26 @@
 
 <br><br>
 
-<img width="500" alt="Awesome Work Environment" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/workspace.gif" />
+<img width="500" alt="Awesome Work Environment"
+src="PASTE_AWESOME_WORK_ENVIRONMENT_GIF_URL_HERE" />
+
+<br><br>
+
+<img width="450" alt="Girls Who Code"
+src="PASTE_GIRLS_WHO_CODE_GIF_URL_HERE" />
 
 </div>
 
 ---
 
 ## 🌌 Current Quest
+
+<div align="center">
+
+<img width="350"
+src="PASTE_CURIOUS_TECH_GEEK_GIF_URL_HERE"/>
+
+</div>
 
 ```text
 🌸 Open Source Development
@@ -28,7 +42,8 @@
 
 ## ✨ About
 
-<img align="right" width="250" alt="Perfect Loop" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/hello.gif"/>
+<img align="right" width="250" alt="Perfect Loop"
+src="PASTE_PERFECT_LOOP_GIF_URL_HERE"/>
 
 I'm a Computer Science student passionate about building software, contributing to open source, and exploring intelligent systems.
 
@@ -81,7 +96,8 @@ My journey revolves around writing clean code, collaborating through open source
 
 <div align="center">
 
-<img width="300" alt="Dinosaur Game" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/dino-game.gif" />
+<img width="300" alt="Dinosaur Game"
+src="PASTE_DINOSAUR_GAME_GIF_URL_HERE" />
 
 </div>
 
@@ -120,7 +136,8 @@ My journey revolves around writing clean code, collaborating through open source
 
 <div align="center">
 
-<img width="750" alt="Mario" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/mario.gif" />
+<img width="750" alt="Mario"
+src="PASTE_MARIO_GIF_URL_HERE" />
 
 </div>
 
@@ -142,3 +159,4 @@ My journey revolves around writing clean code, collaborating through open source
 ### 💡 Building software, contributing to open source, and exploring intelligent systems.
 
 </div>
+````
