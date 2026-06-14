@@ -88,6 +88,16 @@ My journey revolves around writing clean code, collaborating through open source
 
 ---
 
+## 📊 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pari-28&theme=tokyonight" />
+
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 [![Pari's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pari-28&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
@@ -152,6 +162,18 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 </div>
 
 ---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+</div>
+
+---
+
+## 💜 
 
 <div align="center">
 
