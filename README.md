@@ -24,11 +24,11 @@ DSA & Problem Solving  █████████░ 90%
 Machine Learning ███████░░░ 70%
 AWS Cloud ██████░░░░ 60%
 Open Source ████████░░ 80%
+```
 
 ---
 
 ## 🌌 Current Quest
-
 
 ```text
 🌸 Open Source Development
