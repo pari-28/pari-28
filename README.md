@@ -209,12 +209,34 @@ src="https://private-user-images.githubusercontent.com/74038190/250967618-de3001
 
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/pari-sangamnerkar-ab356038b/">LinkedIn</a> •
-<a href="https://pari-portfolio.web.app/">Portfolio</a> •
-<a href="https://codolio.com/profile/pari_">Codolio</a> •
-<a href="https://leetcode.com/u/pari_28/">LeetCode</a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pari-sangamnerkar-ab356038b/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="25" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;LinkedIn&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/pari-28" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="25" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;GitHub&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/pari_28/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="25" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;LeetCode&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://pari-portfolio.web.app/" target="_blank">
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="25" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;Portfolio&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://codolio.com/profile/pari_" target="_blank">
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="25" alt="Codolio"/>
+</a>
+&nbsp;&nbsp;Codolio
+
+</div>
 
 ---
 
