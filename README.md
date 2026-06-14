@@ -193,7 +193,7 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
