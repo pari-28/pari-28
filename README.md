@@ -17,6 +17,16 @@ src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-
 
 ---
 
+## ☕ Currently Learning
+
+```text
+DSA & Problem Solving  █████████░ 90%
+Machine Learning ███████░░░ 70%
+AWS Cloud ██████░░░░ 60%
+Open Source ████████░░ 80%
+
+---
+
 ## 🌌 Current Quest
 
 
@@ -108,6 +118,16 @@ My journey revolves around writing clean code, collaborating through open source
 
 <img width="300" alt="Dinosaur Game"
 src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" />
+
+</div>
+
+---
+
+## 🧩 LeetCode Journey
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/pari_28?theme=dark&font=Karma" />
 
 </div>
 
