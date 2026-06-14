@@ -74,6 +74,7 @@ My journey revolves around writing clean code, collaborating through open source
 ## 🌟 Open Source Journey
 
 - 🌸 Contributor at GSSoC 2026
+- 🌟 Contributor at Social Summer of Code
 - 🔀 Merged Pull Requests across community projects
 - 🤝 Collaborating with developers worldwide
 - 🚀 Learning through real-world software development
@@ -137,7 +138,7 @@ src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-
 
 - 🌸 GSSoC 2026 Contributor
 - 🌟 Social Summer of Code Contributor
-- 🏅 Hackathon Finalist
+- 🏅 Mahakumbh Hackathon Finalist
 - 🔀 Multiple Merged Open Source Pull Requests
 - 💡 Active DSA & Problem Solver
 - 🤖 Machine Learning Enthusiast
@@ -198,7 +199,7 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 ---
 
-## 💜 
+## 💜 A Girl Who Loves Code
 
 <div align="center">
 
