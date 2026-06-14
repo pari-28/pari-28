@@ -71,6 +71,16 @@ My journey revolves around writing clean code, collaborating through open source
 
 ---
 
+## 🛠️ Languages
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pari-28&theme=tokyonight" />
+
+</div>
+
+---
+
 ## 🌟 Open Source Journey
 
 - 🌸 Contributor at GSSoC 2026
@@ -79,6 +89,18 @@ My journey revolves around writing clean code, collaborating through open source
 - 🤝 Collaborating with developers worldwide
 - 🚀 Learning through real-world software development
 
+---
+
+## 🏆 Highlights
+
+- 🌸 GSSoC 2026 Contributor
+- 🌟 Social Summer of Code Contributor
+- 🏅 Mahakumbh Hackathon Finalist
+- 🔀 Multiple Merged Open Source Pull Requests
+- 💡 Active DSA & Problem Solver
+- 🤖 Machine Learning Enthusiast
+- ☁️ Exploring Cloud Technologies
+  
 ---
 
 ## 📊 GitHub Analytics
@@ -99,11 +121,31 @@ My journey revolves around writing clean code, collaborating through open source
 
 ---
 
+## 📈 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pari-28&theme=tokyonight" />
+
+</div>
+
+---
+
 ## 📊 Profile Summary
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pari-28&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🧩 LeetCode Journey
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/pari_28?theme=dark&font=Karma" />
 
 </div>
 
@@ -122,28 +164,6 @@ src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-
 
 </div>
 
----
-
-## 🧩 LeetCode Journey
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/pari_28?theme=dark&font=Karma" />
-
-</div>
-
----
-
-## 🏆 Highlights
-
-- 🌸 GSSoC 2026 Contributor
-- 🌟 Social Summer of Code Contributor
-- 🏅 Mahakumbh Hackathon Finalist
-- 🔀 Multiple Merged Open Source Pull Requests
-- 💡 Active DSA & Problem Solver
-- 🤖 Machine Learning Enthusiast
-- ☁️ Exploring Cloud Technologies
-  
 ---
 
 ## 🚀 Featured Work
@@ -194,6 +214,17 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌸 Personal Motto
+
+<div align="center">
+
+> "Learning. Building. Contributing. Repeating."
+> Turning curiosity into code and ideas into impact.
 
 </div>
 
