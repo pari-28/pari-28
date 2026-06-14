@@ -6,6 +6,10 @@
 
 ![](https://komarev.com/ghpvc/?username=pari-28&style=for-the-badge)
 
+<br><br>
+
+<img width="500" alt="Awesome Work Environment" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/workspace.gif" />
+
 </div>
 
 ---
@@ -24,9 +28,13 @@
 
 ## ✨ About
 
+<img align="right" width="250" alt="Perfect Loop" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/hello.gif"/>
+
 I'm a Computer Science student passionate about building software, contributing to open source, and exploring intelligent systems.
 
 My journey revolves around writing clean code, collaborating through open source, participating in hackathons, and continuously improving my problem-solving abilities.
+
+<br clear="right"/>
 
 ---
 
@@ -71,6 +79,14 @@ My journey revolves around writing clean code, collaborating through open source
 
 ---
 
+<div align="center">
+
+<img width="300" alt="Dinosaur Game" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/dino-game.gif" />
+
+</div>
+
+---
+
 ## 🏆 Highlights
 
 - 🌟 GSSoC 2026 Contributor
@@ -102,6 +118,14 @@ My journey revolves around writing clean code, collaborating through open source
 
 ---
 
+<div align="center">
+
+<img width="750" alt="Mario" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/mario.gif" />
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -115,6 +139,6 @@ My journey revolves around writing clean code, collaborating through open source
 
 <div align="center">
 
-### Building software, contributing to open source, and exploring intelligent systems.
+### 💡 Building software, contributing to open source, and exploring intelligent systems.
 
 </div>
