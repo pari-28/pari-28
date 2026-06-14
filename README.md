@@ -135,32 +135,37 @@ src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-
 
 ## 🏆 Highlights
 
-- 🌟 GSSoC 2026 Contributor
-- 🔀 Multiple Merged Pull Requests
-- 🏆 Hackathon Participant
-- 🤖 Machine Learning Projects
-- 📚 Active Problem Solver
-
+- 🌸 GSSoC 2026 Contributor
+- 🌟 Social Summer of Code Contributor
+- 🏅 Hackathon Finalist
+- 🔀 Multiple Merged Open Source Pull Requests
+- 💡 Active DSA & Problem Solver
+- 🤖 Machine Learning Enthusiast
+- ☁️ Exploring Cloud Technologies
+  
 ---
 
 ## 🚀 Featured Work
 
-### Open Source
+### 🌐 Personal Portfolio
 
-- GSSoC 2026 Contributions
-- Community-Driven Development
-- Bug Fixes & Feature Enhancements
+Designed and developed a personal portfolio website showcasing projects, achievements, technical skills, certifications, and open-source contributions.
 
-### Machine Learning
+### 🏅 Mahakumbh Hackathon Finalist Project
 
-- Student Performance Prediction System
-- Data Analysis & Predictive Modeling
+Built an innovative solution as part of a finalist team, focusing on real-world problem solving, collaboration, and rapid development.
 
-### Development
+### 🌸 Open Source Contributions
 
-- DSA Practice Repository
-- Software Engineering Projects
-- Cloud Learning Initiatives
+Actively contributing through GSSoC 2026 and Social Summer of Code by working on bug fixes, feature enhancements, testing, and documentation.
+
+### 💡 DSA & Problem Solving
+
+Strengthening problem-solving skills through Data Structures & Algorithms, LeetCode practice, and coding challenges.
+
+### ☁️ Cloud & Emerging Technologies
+
+Exploring AWS Cloud, Software Engineering, Machine Learning, and modern development practices through hands-on learning.
 
 ---
 
